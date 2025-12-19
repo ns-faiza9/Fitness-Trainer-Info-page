@@ -36,7 +36,7 @@ header p {
     padding: 0 16px;
 }
 
-/* Intro section using CSS grid (same pattern as exp-1) */
+/* Intro section using CSS grid */
 .intro {
     display: grid;
     grid-template-columns: 1fr 2fr;
